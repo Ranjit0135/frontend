@@ -216,7 +216,7 @@ const Services = () => {
           </section>
           <section className=" md:w-1/2 flex align-middle justify-center items-center order-1 mr-28">
             <Image
-              src="./assets/images (2).jpg"
+              src="/assets/images (2).jpg"
               alt="Dan Abramov"
               height="100%"
             />
