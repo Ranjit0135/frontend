@@ -87,7 +87,7 @@ const Banner = () => {
               shadow="full"
               borderRadius=" full"
               boxSize="350px"
-              src="../../../public/assets/Ranjit Rai IMG_7080 00s.jpg"
+              src="./assets/Ranjit Rai IMG_7080 00s.jpg"
               alt="Dan Abramov"
               objectFit="cover"
               className="transition-shadow duration-300 ease-in-out hover:shadow-xl"

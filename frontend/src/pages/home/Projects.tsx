@@ -23,7 +23,7 @@ const Projects = () => {
           <Card maxW="sm" width="150%">
             <CardBody>
               <Image
-                src="../../../public/assets/Image_-_E-Commerce_Website_.jpeg.webp"
+                src="./assets/Image_-_E-Commerce_Website_.jpeg.webp"
                 alt="Green double couch with wooden legs"
                 borderRadius="lg"
                 height="200px"
@@ -57,7 +57,7 @@ const Projects = () => {
           <Card maxW="sm" width="150%">
             <CardBody>
               <Image
-                src="../../../public/assets/career-businessman-on-blurred-abstract-260nw-1152345887.webp"
+                src="./assets/career-businessman-on-blurred-abstract-260nw-1152345887.webp"
                 alt="Green double couch with wooden legs"
                 borderRadius="lg"
                 height="200px"
@@ -86,7 +86,7 @@ const Projects = () => {
           <Card maxW="sm" width="150%">
             <CardBody>
               <Image
-                src="../../../public/assets/images (1).jpg"
+                src="./assets/images (1).jpg"
                 alt="Green double couch with wooden legs"
                 borderRadius="lg"
                 height="200px"

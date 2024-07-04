@@ -29,7 +29,7 @@ const Header = () => {
                 <WrapItem>
                   <Avatar
                     name="Segun Adebayo"
-                    src="../../../public/assets/Ranjit Rai IMG_7080 00s.jpg"
+                    src="./assets/Ranjit Rai IMG_7080 00s.jpg"
                   />
                 </WrapItem>
               </Wrap>
