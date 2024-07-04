@@ -1,6 +1,6 @@
 import { Heading, Image, List, ListIcon, ListItem } from "@chakra-ui/react";
 import { useState } from "react";
-import { MdCheckCircle, MdSettings } from "react-icons/md";
+import { MdCheckCircle } from "react-icons/md";
 const Services = () => {
   const [activeSection, setActiveSection] = useState("Skills");
 
